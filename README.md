@@ -3,6 +3,8 @@ This is a written documentation for rec room's custom text features.
 
 Custom text works on buttons and the rec room chat.
 
+*If you like this repo, please give it a star, and if you have a code not listed here, pleace create an issue!*
+
 # Simple Codes
 
 `<u>` Underlines text.
