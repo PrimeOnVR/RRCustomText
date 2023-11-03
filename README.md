@@ -5,6 +5,8 @@ Custom text works on buttons and the rec room chat.
 
 *If you like this repo, please give it a star, and if you have a code not listed here, pleace create an issue!*
 
+**Thanks to @King-Inubis and @XenonGaymer for helping with several codes**
+
 # Simple Codes
 
 `<u>` Underlines text.
