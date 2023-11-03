@@ -3,9 +3,13 @@ This is a written documentation for rec room's custom text features.
 
 Custom text works on buttons and the rec room chat.
 
-*If you like this repo, please give it a star, and if you have a code not listed here, pleace create an issue!*
+*If you like this repo, please give it a star!*
 
 **Thanks to @King-Inubis and @XenonGaymer for helping with several codes**
+
+*UPDATE: We have found the source text formatting guide, but you may still need this one as the syntax can be a little different in rec room.*
+https://docs.unity3d.com/Manual/UIE-supported-tags.html
+http://digitalnativestudios.com/textmeshpro/docs/rich-text/
 
 # Simple Codes
 
